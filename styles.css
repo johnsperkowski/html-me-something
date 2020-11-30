@@ -13,6 +13,10 @@ header {
     margin-right: 25px;
 }
 
+ul {
+    padding-bottom: 5px;
+}
+
 h1 {
     font-size: 42px;
 }
