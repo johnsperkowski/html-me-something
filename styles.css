@@ -1,0 +1,68 @@
+body {
+    background-color: lightgoldenrodyellow;
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: rgb(241, 222, 171);
+    padding: 5px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+li {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.covers {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buylink {
+    font-size: 18px;
+    display: block;
+    text-align: center;
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+    background-color: lightblue;
+    border-style: solid;
+    border-color: royalblue;
+    border-width: 5px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h3 {
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding-top: 10px;
+}
