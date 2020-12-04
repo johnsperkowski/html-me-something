@@ -13,6 +13,10 @@ header {
     margin-right: 25px;
 }
 
+#titleText {
+    font-family: 'Courier New', monospace;
+}
+
 ul {
     padding-bottom: 5px;
 }
